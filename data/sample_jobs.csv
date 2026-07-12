@@ -1,0 +1,11 @@
+title,company,description,required_skills
+Python Backend Developer,TechCorp,Build and maintain REST APIs using FastAPI and PostgreSQL. Work on data pipelines and deploy services with Docker.,"python,fastapi,sql,docker,rest api"
+Data Analyst,DataWorks Inc,Perform data wrangling and cleaning tasks. Build dashboards using Power BI and analyze trends with Pandas.,"python,pandas,sql,power bi,data analysis"
+Machine Learning Engineer,AI Solutions,Design and deploy ML models using Scikit-learn and TensorFlow. Experience with model serving pipelines required.,"python,machine learning,tensorflow,scikit-learn,docker"
+NLP Engineer,LangTech,Build NLP pipelines and RAG-based question answering systems using LangChain and FAISS.,"python,nlp,langchain,rag,faiss"
+Frontend React Developer,WebCraft,Build responsive UIs using React and integrate with backend REST APIs.,"javascript,react,html,css,rest api"
+DevOps Engineer,CloudNine,Manage Kubernetes clusters and CI/CD pipelines. Strong AWS and Docker experience needed.,"docker,kubernetes,aws,linux,git"
+Data Scientist,InsightAI,Analyze large datasets and build predictive models using Scikit-learn and deep learning frameworks.,"python,machine learning,deep learning,pandas,numpy"
+Full Stack Developer,StartupHub,Develop full stack applications using Django backend and React frontend with MongoDB.,"python,django,react,mongodb,javascript"
+Cloud Data Engineer,CloudData Co,Design data pipelines on AWS and GCP. Strong SQL and Python skills required.,"python,sql,aws,gcp,data analysis"
+AI Product Engineer,NextGen AI,"Build LLM-powered applications using LangChain, vector databases, and FastAPI backends.","python,langchain,faiss,fastapi,nlp"
